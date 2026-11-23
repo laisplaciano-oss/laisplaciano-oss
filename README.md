@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**laisplaciano-oss/laisplaciano-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lais Aleixo Soares Placiano
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Seja bem-vindo(a) ao meu GitHub!
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha jornada no mundo da tecnologia.
+
+## 💻 Tecnologias
+
+- HTML
+- CSS
+
+## 🌱 Objetivos
+
+- Aprimorar meus conhecimentos em programação.
+- Desenvolver projetos práticos.
+- Aprender novas tecnologias.
+- Crescer profissionalmente na área de desenvolvimento.
+
+## 📚 Projetos e estudos
+
+Neste perfil compartilho meus exercícios, estudos e projetos desenvolvidos durante minha jornada de aprendizado.
+
+Obrigada pela visita!
